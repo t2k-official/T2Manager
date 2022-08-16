@@ -1,4 +1,5 @@
-#T2Manager Commands
+# T2Manager Commands
+[back to main page](./index.md)
 
 ## Misc commands
 - /misc embed <title> <description> - sends an embed to the channel

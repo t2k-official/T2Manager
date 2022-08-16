@@ -15,6 +15,8 @@ The bots features are:
 
 ### Stats
 ---
+Bot: T2Manager
+Online: :white_check_mark:
 ---
 
 ### Why This Bot?

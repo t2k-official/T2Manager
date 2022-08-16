@@ -26,5 +26,16 @@ Contact me on discord by:
 - *Or*
 - Dm me on discord: ***_T2k.Official#2457_***
 
+
+### Upcoming Features
+**Music Commands:**
+*/play , /pause , /unpause*
+
+**Welcome And Goodbye Messages:**
+*Multi Guild , Custom Role , Custom Channel*
+
+**Other Commands:**
+*/afk , /rps And More Games*
+
 ### To View All The Bots I Have Created
 [Visit my github](https://github.com/t2k-official)

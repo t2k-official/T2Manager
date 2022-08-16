@@ -49,7 +49,7 @@ Contact me on discord by:
 */afk , /rps And More Games*
 
 ## To View All The Bots I Have Created
-You should [Visit my github].(https://github.com/t2k-official)
+You should [Visit my github](https://github.com/t2k-official)
 
 ## Need Help On Coding?
 Visit [T2Coding - ***COMING SOON***]() for infomation on how to code

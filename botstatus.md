@@ -1,5 +1,5 @@
 ---
 Bot: T2Manager
-Online: :white_check_mark:
+Online: ✅
 Developer: @T2k.Official#2457
 ---

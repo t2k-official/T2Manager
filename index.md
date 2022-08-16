@@ -3,7 +3,7 @@
 [Invite the bot](https://discord.com/api/oauth2/authorize?client_id=982953875915034644&permissions=8&scope=bot%20applications.commands)
 
 
-### T2Manager
+## T2Manager
 
 T2Manager is an easy to use discord bot that has most features a normal bot has.
 The bots features are:
@@ -12,6 +12,10 @@ The bots features are:
 - Ticket Systems,
 - Giveaways
 - And Alot More!
+
+### Stats
+---
+---
 
 ### Why This Bot?
 You should pick T2Manager because it is an easy to use bot and only has a couple of setup commands!

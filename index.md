@@ -6,7 +6,7 @@
 
 [Vote On Top.gg](https://top.gg/bot/982953875915034644)
 
-[My Commands - ***_COMING SOON_***]()
+[My Commands - ***COMING SOON***]()
 
 
 # T2Manager

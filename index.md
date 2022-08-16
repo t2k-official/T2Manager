@@ -1,8 +1,11 @@
 # Welcome to T2Manager Website
 ### Useful Links
 [Invite the bot](https://discord.com/api/oauth2/authorize?client_id=982953875915034644&permissions=8&scope=bot%20applications.commands)
+
 [Support Server](https://discord.gg/aMgCkekQJ9)
+
 [Vote On Top.gg](https://top.gg/bot/982953875915034644)
+
 [My Commands - ***_COMING SOON_***]()
 
 

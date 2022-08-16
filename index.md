@@ -20,19 +20,19 @@ The bots features are:
 - And Alot More!
 
 ## FAQ
-### Why This Bot?
+- ### Why This Bot?
 You should pick T2Manager because it is an easy to use bot and only has a couple of setup commands!
 
-### Is The Bot Updated Frequently?
+- ### Is The Bot Updated Frequently?
 Yes i try my best to update the bot frequently with new and interesting updates!
 
-### Is The Bot On 24/7?
+- ### Is The Bot On 24/7?
 Yes i host the bot with the free website [Heroku](heroku.com)!
 
 ## Having trouble with the bot or have found some errors!
 Contact me on discord by:
 - [Joining the discord](https://discord.gg/aMgCkekQJ9)
-- *Or*
+*Or*
 - Dm me on discord: ***_T2k.Official#2457_***
 
 

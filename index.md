@@ -31,9 +31,11 @@ Yes i host the bot with the free website [Heroku](heroku.com)!
 
 ## Having trouble with the bot or have found some errors!
 Contact me on discord by:
-- [Joining the discord](https://discord.gg/aMgCkekQJ9)
+- [Joining the support server](https://discord.gg/aMgCkekQJ9)
+
 *Or*
-- Dm me on discord: ***_T2k.Official#2457_***
+
+- Direct messaging me on discord: ***_T2k.Official#2457_***
 
 
 ## Upcoming Features

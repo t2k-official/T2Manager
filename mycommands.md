@@ -1,6 +1,6 @@
 #T2Manager Commands
 
-##Misc commands
+## Misc commands
 - /misc embed <title> <description> - sends an embed to the channel
 - /misc say <message> - sends a message to the channel
 - /misc invite - sends the bots invite link

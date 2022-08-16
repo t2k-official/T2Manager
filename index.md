@@ -13,7 +13,7 @@ The bots features are:
 - Giveaways
 - And Alot More!
 
-##FAQ
+## FAQ
 ### Why This Bot?
 You should pick T2Manager because it is an easy to use bot and only has a couple of setup commands!
 ### Is The Bot Updated Frequently?

@@ -13,12 +13,6 @@ The bots features are:
 - Giveaways
 - And Alot More!
 
-### Stats
----
-Bot: T2Manager
-Online: :white_check_mark:
----
-
 ### Why This Bot?
 You should pick T2Manager because it is an easy to use bot and only has a couple of setup commands!
 ### Is The Bot Updated Frequently?

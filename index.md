@@ -1,36 +1,27 @@
 ## Welcome to T2Manager Website
 
-[Invite the bot](https://github.com/t2k-official/t2manager.github.io/edit/main/index.md)
+[Invite the bot](https://discord.com/api/oauth2/authorize?client_id=982953875915034644&permissions=8&scope=bot%20applications.commands)
 
 
-### Markdown
+### T2Manager
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+T2Manager is an easy to use discord bot that has most features a normal bot has.
+The bots features are:
+- Moderation,
+- Economy,
+- Ticket Systems,
+- Giveaways
+- And Alot More!
 
-```markdown
-Syntax highlighted code block
+### Why This Bot?
+You should pick T2Manager because it is an easy to use bot and only has a couple of setup commands!
+### Is The Bot Updated Frequently?
+Yes i try my best to update the bot frequently with new and intresting updates!
+### Is The Bot On 24/7?
+Yes i host the bot with the free website [Heroku](heroku.com)!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/t2k-official/t2manager.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Having trouble with the bot or have found some errors!
+Contact me on discord by:
+- [Joining the discord](https://discord.gg/aMgCkekQJ9)
+- *Or*
+- Dm me on discord: ***_T2k.Official#2457_***

@@ -1,6 +1,8 @@
 # Welcome to T2Manager Website
 ### Useful Links
-- [My Commands - ***COMING SOON***]()
+- [My Commands](./mycommands.md)
+- [Bot Status](./botstatus.md)
+- [FAQ](./faq.md)
 
 
 # T2Manager

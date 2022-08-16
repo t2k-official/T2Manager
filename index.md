@@ -35,7 +35,7 @@ Contact me on discord by:
 
 *Or*
 
-- Direct messaging me on discord: ***_T2k.Official#2457_***
+- Direct messaging me on discord: ***T2k.Official#2457***
 
 
 ## Upcoming Features
@@ -49,4 +49,7 @@ Contact me on discord by:
 */afk , /rps And More Games*
 
 ## To View All The Bots I Have Created
-[Visit my github](https://github.com/t2k-official)
+You should [Visit my github].(https://github.com/t2k-official)
+
+## Need Help On Coding?
+Visit [T2Coding - ***COMING SOON***]() for infomation on how to code

@@ -1,5 +1,8 @@
----
-Bot: T2Manager
-Online: ✅
-Developer: @T2k.Official#2457
----
+## T2Manager
+[back to main page](./index.md)
+
+## Bot Status
+
+|   Bot   | Online | Server |
+|---------|--------|----------------|
+|T2Manager|      :white_check_mark:   |            [Server](https://discord.gg/aMgCkekQJ9)    |

@@ -9,6 +9,7 @@
 - /misc servercount - displays how many severs the bot is in
 - /misc suggestion <message> - sends us a suggestion
 - /misc support - sends a link to the support server
+- /misc website - sends the link to the t2manager website
 
 ## Info commands
 - /info server - displays info about the server

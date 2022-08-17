@@ -5,4 +5,4 @@
 
 |   Bot   | Online | Server |
 |---------|--------|----------------|
-|T2Manager|      :white_check_mark:   |            [Server](https://discord.gg/aMgCkekQJ9)    |
+|T2Manager|   ✅   |            [Server](https://discord.gg/aMgCkekQJ9)    |

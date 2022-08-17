@@ -55,8 +55,6 @@
 - /giveaway reroll <id> - rerolls a giveaway
 
 ##Setup commands
-- /setup channel <channel> - sets the panel channel
-- /setup catagory <catagory> - sets the ticket catagory
 - /setup transcript <channel> <type-of-transcript> - setup the ticket transcript
 - /setup verify <role> - sets the verify role
 - /setup giveaway <role> - sets the giveaway role

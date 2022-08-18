@@ -60,13 +60,13 @@
 - /setup giveaway <role> - sets the giveaway role
 
 ## Ticket commands
-/create - creates a ticket
-/close - closes a ticket
-/delete - deltes a ticket
-/open - opens a ticket
-/send-panel - sends the ticket panel
-/transcript - sends the transcript to the transcript channel
+- /create - creates a ticket
+- /close - closes a ticket
+- /delete - deltes a ticket
+- /open - opens a ticket
+- /send-panel - sends the ticket panel
+- /transcript - sends the transcript to the transcript channel
 
 ## Dev commands
-/dev servers - shows what severs the bot is in
-/dev tsw - !
+- /dev servers - shows what severs the bot is in
+- /dev tsw - !

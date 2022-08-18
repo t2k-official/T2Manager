@@ -68,5 +68,5 @@
 - /transcript - sends the transcript to the transcript channel
 
 ## Dev commands
-- /dev servers - shows what severs the bot is in
+- /dev servers - shows what severs the bot is in with advanced detail
 - /dev tsw - !

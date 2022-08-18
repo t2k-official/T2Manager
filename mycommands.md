@@ -19,7 +19,7 @@
 - /uptime - displays the uptime of the bot
 - /verify - verifys a user
 
-##Economy commands
+## Economy commands
 - /economy balance - shows your balance
 - /economy withdraw <amount> - withdraws money from your bank
 - /economy deposit <amount> - deposits money into your bank
@@ -29,23 +29,23 @@
 - /economy admin remove <user> <amount> - removes money from a users balance
 - /economy admin reset <user> - resets a users balance
 
-##Moderation commands
+## Moderation commands
 
-###Moderator
+### Moderator
 - /moderator kick <user> <reason> - kicks a user from the server
 - /moderator warn <user> <reason> - warn a user
 - /moderator warnings <user> - view a users warnings
 - /moderator unwarn <user> <amount> <reason> - removes a warning from a user
 - /moderator purge <amount> <reason> - deletes a certain amount of messages
 
-###Admin
+### Admin
 - /admin verify <user> - verifys a user
 - /admin ban <user> <reason> - bans a user
 - /admin unban <user> <reason> - unbans a user
 - /admin arole <user> <role> - gives a user a role
 - /admin rrole <user> <role> - removes a role from a user
 
-##Giveaway commands
+## Giveaway commands
 - /giveaway start <duration> <winners> <prize> <channel> - starts a giveaway
 - /giveaway end <id> - ends a giveaway
 - /giveaway delete <id> - deletes a giveaway
@@ -54,12 +54,12 @@
 - /giveaway unpause <id> - unpauses a giveaway
 - /giveaway reroll <id> - rerolls a giveaway
 
-##Setup commands
+## Setup commands
 - /setup transcript <channel> <type-of-transcript> - setup the ticket transcript
 - /setup verify <role> - sets the verify role
 - /setup giveaway <role> - sets the giveaway role
 
-##Ticket commands
+## Ticket commands
 /create - creates a ticket
 /close - closes a ticket
 /delete - deltes a ticket
@@ -67,6 +67,6 @@
 /send-panel - sends the ticket panel
 /transcript - sends the transcript to the transcript channel
 
-##Dev commands
+## Dev commands
 /dev servers - shows what severs the bot is in
 /dev tsw - !

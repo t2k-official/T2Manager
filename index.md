@@ -32,7 +32,7 @@ Contact me on discord by:
 *Multi Guild , Custom Role , Custom Channel*
 
 **Other Commands:**
-*/afk , /rps And More Game Commands*
+*/rps And More Game Commands*
 
 ## To View All The Bots I Have Created
 You should [Visit my github](https://github.com/t2k-official)

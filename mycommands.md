@@ -58,6 +58,8 @@
 - /setup transcript <channel> <type-of-transcript> - setup the ticket transcript
 - /setup verify <role> - sets the verify role
 - /setup giveaway <role> - sets the giveaway role
+- /setup welcome <id> <role> - sets the welcome channel and the role to give to new members
+- /setup goodbye <id> - sets the goodbye channel
 
 ## Ticket commands
 - /create - creates a ticket

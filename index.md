@@ -28,9 +28,6 @@ Contact me on discord by:
 **Music Commands:**
 */play , /pause , /unpause*
 
-**Welcome And Goodbye Messages:**
-*Multi Guild , Custom Role , Custom Channel*
-
 **Other Commands:**
 */rps And More Game Commands*
 

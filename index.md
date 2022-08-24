@@ -10,7 +10,7 @@
 T2Manager is an easy to use discord bot that has most features a normal bot has.
 The bots features are:
 - Moderation,
-- Economy,
+- Welcome System,
 - Ticket Systems,
 - Giveaways
 - And Alot More!

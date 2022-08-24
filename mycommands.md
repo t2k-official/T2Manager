@@ -19,15 +19,6 @@
 - /uptime - displays the uptime of the bot
 - /verify - verifys a user
 
-## Economy commands
-- /economy balance - shows your balance
-- /economy withdraw <amount> - withdraws money from your bank
-- /economy deposit <amount> - deposits money into your bank
-- /economy daily - claims your daily amount of coins
-- /economy give <user> <amount> - gives a user money
-- /economy admin add <user> <amount> - adds money to a users balance
-- /economy admin remove <user> <amount> - removes money from a users balance
-- /economy admin reset <user> - resets a users balance
 
 ## Moderation commands
 
